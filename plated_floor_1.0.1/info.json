@@ -1,0 +1,9 @@
+{
+    "name": "plated_floor",
+    "version": "1.0.1",
+    "title": "Plated Flooring",
+    "author": "ComputerComa",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "This mod adds plated flooring with ."
+  }
