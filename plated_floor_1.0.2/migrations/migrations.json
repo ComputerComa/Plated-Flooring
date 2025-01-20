@@ -1,0 +1,13 @@
+{
+    "item":
+    [
+      ["colony-tile-plate", "plated-floor"]
+    ],
+    "recipe":
+    [
+      ["colony-tile-plate", "plated-floor"]
+    ],
+    "tile":[
+        ["colony-tile-plate","plated-floor"]
+    ]
+  }
