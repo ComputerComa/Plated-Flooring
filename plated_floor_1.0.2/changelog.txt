@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2025-01-20
+  Changes:
+    - Added a research to unlock the new recipe (if you installed before this version it will already be researched so no existing saves are broken)
+    - Changed stack size to 200
+    - Added a 100x craft (same ratio but craftes a stack of 100 with an increased crafting time)
+  Internal:
+    - renamed the internal names to be more consistent
+  ToDo:
+    - Possible compatability with Stable Foundations will be added in the future (https://mods.factorio.com/mod/StableFoundations)
